@@ -2,24 +2,24 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: 吳健雄
-  given: Shiung Wu
-  family: Chien
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  display: ズイ
+  given: Zuli
+  family: Amrullah
+  pronunciation: Ahmad Zuli Amrullah
+  pronouns: he/him
 status:
   icon: "☕️"
-role: Professor of Artificial Intelligence
+role: IT Teacher
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 affiliations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:
+    url:
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:zuli.amrullah@gmail.com
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
