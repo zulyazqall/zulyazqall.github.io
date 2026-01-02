@@ -25,7 +25,7 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/cv
-    url: uploads/resume.pdf
+    url: uploads/resume_SE.pdf
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
