@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2026-1-5
+date: 2026-01-05
 hide_date: true
 reading_time: false
 ---
