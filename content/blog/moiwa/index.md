@@ -8,7 +8,7 @@ authors:
 tags:
   - Story
 image:
-  caption: caption: 'Image credit: [**Visit Sapporo**](https://visit.sapporo.travel/)'
+  caption: 'Image credit: [**Visit Sapporo**](https://visit.sapporo.travel/)'
 ---
 
 
